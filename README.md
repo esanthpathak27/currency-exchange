@@ -3,6 +3,7 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
 
 A dynamic platform for currency conversion by integrating a web API. Leveraging **HTML, CSS, and JavaScript**, the project provides an intuitive and responsive user interface.
+
 **Core Components**:
 HTML for structure
 CSS for aesthetics
